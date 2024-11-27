@@ -47,6 +47,9 @@ Definition: Polymorphism allows one interface to represent multiple forms. In th
  The Main class works with the Shape3DInterface rather than specific classes, enabling the addition of new shapes without modifying existing code.
 
 
+![image](https://github.com/user-attachments/assets/e8d4c3aa-2add-4554-a2e3-f6b790f1bfa8)
+
+
 
 
 
